@@ -4,8 +4,8 @@ import 'dart:developer';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_interview_task/controller/firestore_controller.dart';
-import 'package:flutter_interview_task/main.dart';
 import 'package:flutter_interview_task/models/user_model.dart';
+import 'package:flutter_interview_task/screens/home_screen.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:http/http.dart' as http;
 
